@@ -16,4 +16,5 @@ A writeup of our work can be found on my linkedin [here](https://www.linkedin.co
 
 The chess game using Grail is a work in progress, and we hope to implement server functionality and Stockfish soon! Below is a video of our game in action (ran on my VM, sorry for the poor framerate):
 
-![2023-07-23 12-44-56](https://github.com/athakkar1/GrailGUI/assets/96598825/1f952252-5baf-423d-a0f7-192f0ec982c5)
+https://github.com/athakkar1/GrailGUI/assets/96598825/f752724a-5d15-4f77-b542-94b59b323f0d
+
